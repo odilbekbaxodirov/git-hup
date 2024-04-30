@@ -1,0 +1,423 @@
+.container{
+    
+    width: 1780px;
+    margin: 0 auto;
+    background-color:  #2B2B2B;
+  color: white;
+
+}
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 180px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+}
+.texts{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 15px;
+    
+}
+.nav-btn{
+   
+    color: white;
+    text-align: center;
+    background-color: #A259FF;
+    width: 152px;
+    height: 60px;
+    size: 16px;
+    border-radius: 20px;
+    border: 1px solid #A259FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.second-container{
+    width: 100%;
+    background-color: #2B2B2B;
+    color: white;
+}
+.second-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 30px;
+}
+.k-{
+display: flex;
+align-items: center;
+justify-content: center;
+column-gap: 8px;
+margin-right: 110px;
+}
+.nd-h1{
+    font-size: 57px;
+}
+.nd-p{
+    font-size: 22px;
+}
+.nd-btn{
+    width: 224px;
+    height: 60px;
+    border-radius: 20px;
+    background-color: #A259FF;
+    border: 1px solid #A259FF;
+
+}
+.big-car{
+    height: 515px;
+    background-color: #3B3B3B;
+    border-radius: 20px ;
+   
+}
+.walked-space{
+padding-left: 20px;
+
+    
+}
+.items{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+.k1{
+    width: 150px;
+}
+.k2{
+    width: 150px;
+}
+.k3{
+    width: 150px;
+}
+.collect-card-text{
+    display: flex;
+    column-gap: 5px;
+    align-items: center;
+    
+}
+.collect-foto{
+    width: 25px;
+    height: 25px;
+}
+.sections{
+    width: 100%;
+    background-color: #A259FF !important;
+  
+}
+.collection-w{
+ display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 40px;
+    background-color: #2B2B2B;
+}
+.collection{
+ 
+  color: white;
+  background-color: #2B2B2B;
+    
+}
+.big-collect-cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 40px;
+}
+.csdpovmksflgbjmsd{
+    display: flex;
+    align-items:center ;
+    justify-content: center;
+    background-color: #2B2B2B;
+    color: WHIT;
+}
+
+
+.cards{
+    width: 240px;
+    height: 316px;
+    background-color: #3B3B3B;
+    border-radius: 20px;
+
+}
+.wrapper-hide{
+    display: flex;
+    flex-wrap:  wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 255px 80px 255px;
+    column-gap: 48px;
+    row-gap: 20px;
+width: 1230px
+  ;
+}
+.container-text{
+margin-left: 300px;
+padding-top: 100px;
+}
+
+body{
+    background-color: #2B2B2B;
+    color: white;
+}
+.container-navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 790px;
+}
+.container-f{
+    
+    width: 1980px;
+    margin: 0 auto;
+    background-color:  #2B2B2B;
+  color: white;
+
+}
+.first-btn{
+    width: 187px;
+    height: 60px;
+    border-radius: 20px;
+    border: 1px solid #A259FF;
+    color: #A259FF;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2B2B2B;
+    grid-column-gap: 15px;
+}
+.first-or-secon{
+    display: flex; 
+    align-items: center;
+    column-gap: 10px;
+}
+.theree-carsds-photo{
+    width: 25px;
+    height: 25px;
+}
+.price-name{
+    font-size: 12px;
+    color: #858584;
+}
+.for-h1{
+    font-size: 16px;
+}
+.price{
+    display: flex;
+    align-items: center;
+    column-gap: 90px;
+}
+.first-div{padding: 30px;}
+.card-theere{
+    width: 330px;
+    background-color: #3B3B3B;
+    border-radius: 20px;
+}
+.theere-cards-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 30px;
+}
+.odil-text{
+    width: 240px;
+text-align: center;
+}
+.new-wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nft-img{
+    margin-top: 50px;
+}
+.new-crds-for-odil{
+    color: white;
+}
+.container-c-text{
+    margin-right: 850px;
+    color: white;
+}
+
+.cosmo-h1{
+    font-size:  38px;
+}
+
+.cosmo-p{
+    font-size: 22px;
+}
+.cosmo-input{
+width: 400px;
+height: 60px;
+font-size: 16px;
+border-radius: 20px;
+border: 1px #FFFFFF solid;
+
+position: absolute;
+}
+.cosmo-btn{
+    width: 211px;
+    height: 65px;
+    background-color: #A259FF;
+    border-radius: 20px;
+    color: white;
+    border: 1px solid #A259FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    font-size: 16px;
+    left: 200px;
+    
+}
+.cosmo-btns{
+    display: flex;
+
+   
+}
+.wrapper-cosmo-man{
+  display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.all{
+    width:  1050px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 40px;
+  background-color: #3B3B3B;
+  border-radius: 20px;
+  padding: 60px;
+}
+
+
+
+
+
+
+
+
+
+.oxir{
+    background-color: #2B2B2B;
+}
+.footer_text_oxiri{
+    padding-top: 60px;
+}
+.footer_text_oxiri{
+    column-gap: 200px;
+   display: flex;
+   background-color: #3B3B3B;
+   padding:40px;
+   align-items: center;
+   justify-content: center;
+   
+   
+}
+.p_text{
+padding-top: 20px;
+
+}
+.p_2_text_icon{
+    padding-top: 20px;
+}
+
+.inp{
+    width: 300px;
+    height: 50px;
+    border-radius: 20px;
+   border: none;
+   position: absolute;
+padding-left: 10px;
+
+}
+.btn_full{
+  width: 150px;
+  height: 55px;
+  border-radius:20px;
+position: relative;
+margin-left: 190px;
+  background-color:#A259FF;
+border: none;
+color: white;
+cursor: pointer;
+}
+.btn_full:hover{
+background-color: #44009d;
+color: white;
+}
+
+.cosmo-section{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.cosmo-btn:hover{
+    background-color: #44009d;
+color: white;
+}
+.new-crds-for-odil{
+    background-color: #3B3B3B;
+    border-radius: 20px;
+ 
+}
+.container_s{
+    width: 1190px;
+    margin: 0 auto;
+    background-color:  #2B2B2B;
+  color: white;
+
+}
+.txt_buttom{
+    padding-top: 40px;
+    padding-bottom: 40px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+
+}
+.btn{
+    border: none;
+    border-radius: 10px;
+
+   width: 120px;
+   height: 40px;
+
+}
+.btn:hover{
+    background-color:#44009d;
+    color: white;
+}
+.rasm{
+    object-fit: cover !important;
+}
+#data__container{
+ 
+    display: flex;
+    
+    border-radius: 20px;
+ flex-wrap: wrap;
+ padding: 30px;
+
+}
+.container_car_data{
+    background-color:#2B2B2B ;
+    border-radius: 20px;
+    margin: 0 auto;
+   
+   
+  
+}
+.card{
+text-align: center;
+margin: 10px;
+
+}
